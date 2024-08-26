@@ -4,7 +4,7 @@
 
 ### A passionate Full Stack Developer from South Africa 🇿🇦
 
-- 👯 I’m looking to collaborate on [Exciting Collaboration](#)  
+ 
 - 🌱 I’m currently learning Full Stack Development & System Development  
 - 💬 Ask me about **React**, **Python**  
 - 📫 How to reach me: [lethumkhonto@gmail.com](mailto:lethumkhonto@gmail.com)    

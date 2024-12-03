@@ -6,7 +6,7 @@
 
  
 - 🌱 I’m currently learning Full Stack Development & System Development  
-- 💬 Ask me about **React**, **Python**  
+- 💬 Ask me about **React**, **Python** *C#* 
 - 📫 How to reach me: [lethumkhonto@gmail.com](mailto:lethumkhonto@gmail.com)    
 - ⚡ Fun fact: I’ve been known to lose track of time while perfecting a piece of code, only to realize it’s 3 AM!
 
